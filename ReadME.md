@@ -97,7 +97,11 @@ This project is ready to be deployed for free on Hugging Face Spaces.
 ## Project Structure
 
 ├── .gitignore       # Specifies intentionally untracked files to ignore
+
 ├── app.py           # The core Gradio application script
+
 ├── Dockerfile       # Instructions to build the Docker container (optional)
+
 ├── README.md        # Project documentation
+
 └── requirements.txt # Project dependencies
