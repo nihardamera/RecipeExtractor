@@ -6,7 +6,6 @@
 
 An AI-powered web application that automatically extracts recipes from cooking videos. It understands multiple languages, displays a video thumbnail for confirmation, and generates a clean, formatted recipe in the **user's chosen language**.
 
-*(Suggestion: Run the app locally, take a screenshot of the final UI with the thumbnail preview, and add it here.)*
 
 ---
 
